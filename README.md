@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rima
+- 👨‍💻  I’ve been working at ADDIE Soft Ltd. since 2021
 - <!---
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently  ADDIE Soft Ltd.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
