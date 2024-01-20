@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rima
-- 👨‍💻 I’ve been working as a full-time full-stack developer at ADDIE Soft Ltd. since 2021
+- 👨‍💻 I’ve been working as a full-time full-stack developer at ADDIE Soft Ltd. since 2022
 - <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently  ADDIE Soft Ltd.
